@@ -18,7 +18,7 @@ const Developer = (props) => {
                     <small><span>Age:</span> {age}</small>
                 </p>
                 
-                <button onClick={() => props.handleAddButton(props.developer)} className="btn-add"><i class="fas fa-plus"></i> Hire</button>
+                <button onClick={() => props.handleAddButton(props.developer)} className="btn-add"><i className="fas fa-plus"></i> Hire</button>
             </div>
         </div>
     );

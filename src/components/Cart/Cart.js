@@ -10,12 +10,12 @@ const Cart = (props) => {
     }
     return (
         <div className='cart'>
-            <h3><b><i class="fas fa-user"></i> Added:</b> {cart.length} </h3>
+            <h3><b><i className="fas fa-user"></i> Added:</b> {cart.length} </h3>
             <hr />
             <ul className='addedDevelopersList'>
                 {
                     cart.map(developer => <li className='addedDeveloper'>
-                        <i style={{color: 'teal'}} class="fas fa-check"></i> {developer.owner}
+                        <i style={{color: 'teal'}} className="fas fa-check"></i> {developer.owner}
                     </li> )
                 }
             </ul>
