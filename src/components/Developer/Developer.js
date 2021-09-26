@@ -9,7 +9,7 @@ const Developer = (props) => {
                 <img src={img} alt="developer-img" />
             </div>
             <div className="developer-info">
-                <h3><b>Name: {owner}</b></h3>
+                <h3 className='developer-name'>Name: {owner}</h3>
                 <h4><b>Salary:</b> ${salary} </h4>
                 <p><b>Channel:</b> {channelName} </p>
                 <p><small>Subscribers: {subscribers} </small><small>Age: {age} </small></p>
