@@ -1,0 +1,49 @@
+img{
+    width: 120px;
+    height: 120px;
+}
+
+.developer{
+    border: 1px solid #0d6efd;
+    border-radius: 10px;
+    display: flex;
+    transition: transform 150ms;
+}
+
+.developer:hover{
+    transform: scale(1.02);
+}
+
+.developer-img{
+    background-color:lightblue;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+}
+.developer-img img{
+    margin-top: 50%;
+    border-radius: 50%;
+}
+
+.developer-info{
+    margin-left: 15px;
+    padding: 10px;
+}
+
+.developer-info small{
+    margin-right: 5px;
+}
+
+.btn-add{
+    font-size: 16px;
+    font-weight: 500;
+    color: white;
+    background-color: #0d6efd;
+    padding: 8px 40px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.btn-add:hover{
+    transform: scale(1.03);
+}

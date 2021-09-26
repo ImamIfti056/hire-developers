@@ -1,0 +1,82 @@
+[
+    {
+        "key":"a1",
+        "channelName":"Traversy Media",
+        "owner":"Brad Travery",
+        "subscribers":"1.64M",
+        "salary":1500,
+        "img":"https://i.pinimg.com/236x/43/c2/51/43c251bdeb7ec94fc18896c7ae6d09d5.jpg",
+        "age":42},
+    {
+        "key":"a3",
+        "channelName":"Web Dev Simplified",
+        "owner":"Kyle Cook",
+        "subscribers":"672K",
+        "salary":700,
+        "img":"https://www.personality-database.com/profile_images/331561.png",
+        "age":29
+    },
+    {
+        "key":"a4",
+        "channelName":"Kevin Powel",
+        "owner":"Kevin Powel",
+        "subscribers":"361K",
+        "salary":800,
+        "img":"https://yt3.ggpht.com/ytc/AKedOLT1tLx7BgAa7_SHaXE0hDRjQu1BRihsEDZ3lmUUcg=s900-c-k-c0x00ffffff-no-rj",
+        "age":43
+    },
+    {
+        "key":"a5",
+        "channelName":"Adrian Twarog",
+        "owner":"Adrina Twarog",
+        "subscribers":"119K",
+        "salary":1000,
+        "img":"https://yt3.ggpht.com/ytc/AKedOLRlgc2WX_PlndJ73B8Uv34TZjfzxqTFwLVJIF0l2w=s900-c-k-c0x00ffffff-no-rj",
+        "age":35
+    },
+    {
+        "key":"a6",
+        "channelName":"Anisul Islam",
+        "owner":"Anisul Islam",
+        "subscribers":"287K",
+        "salary":850,
+        "img":"https://yt3.ggpht.com/ytc/AKedOLSKVDfHa1cOpwRjgKSrQXd492eXXIPGZYQ8XZNxlQ=s900-c-k-c0x00ffffff-no-rj",
+        "age":32
+    },
+    {
+        "key":"a7",
+        "channelName":"Stack Learner",
+        "owner":"HM Nayem",
+        "subscribers":"63.2K",
+        "salary":700,
+        "img":"https://ds.rokomari.store/rokomari110/people/d0ed92ff2_80898.jpg",
+        "age":27
+    },
+    {
+        "key":"a8",
+        "channelName":"Learn With Sumit Bangladesh",
+        "owner":"Sumit Saha",
+        "subscribers":"40K",
+        "salary":800,
+        "img":"https://pbs.twimg.com/profile_images/874172653405327360/QyysiBs5_400x400.jpg",
+        "age":30
+    },
+    {
+        "key":"a2",
+        "channelName":"Programming With Mosh",
+        "owner":"Mosh Hamedani",
+        "subscribers":"2.01M"
+        ,"salary":1400,
+        "img":"https://yt3.ggpht.com/ytc/AKedOLQ09D8wVCdgWoCN3IPrvVKWi48-R2QZ_yJkCmKh-A=s900-c-k-c0x00ffffff-no-rj",
+        "age":42
+    },
+    {
+        "key":"a9",
+        "channelName":"Dev Ed",
+        "owner":"Edwin Simo",
+        "subscribers":"692K",
+        "salary":900,
+        "img":"https://yt3.ggpht.com/ytc/AKedOLSB-oR-xmvVSZXJ3gbK12uvv0AJUvajwxMie_R_uw=s176-c-k-c0x00ffffff-no-rj-mo",
+        "age":31
+    }
+]

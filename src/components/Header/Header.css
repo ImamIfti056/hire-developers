@@ -1,0 +1,9 @@
+.header{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    background-color: #2f81fc;
+    padding: 30px;
+    line-height: 1.5;
+    color: white;
+}
