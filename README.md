@@ -86,6 +86,6 @@ They have millions of students learning web development with them.
 
 You can hire them at the most possible low budget. -->
 
--list item 1
--list item 2
--list item 3
+Markup : * Bullet list
+          * Bullet list item 2
+          * Bullet list item 3
