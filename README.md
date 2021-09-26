@@ -72,7 +72,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 # Hire Your Favorite Developers
 
-This project was created with React [Hire Developers](https://github.com/facebook/create-react-app).
+This project was created with React [Hire Developers](https://goofy-noyce-88a881.netlify.app/).
 
 ### `Best Developers`
 

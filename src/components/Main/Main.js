@@ -16,12 +16,14 @@ const Main = () => {
         .then(data => setDevelopers(data))
     },[])
 
+    // Hire button handling
     const handleAddButton = (developer) => {
         const newCart = [...cart, developer];
         setCart(newCart);
     }
 
     return (
+        // website body
         <div className='main'>
             <div className="developers">
                 {

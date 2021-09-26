@@ -1,13 +1,5 @@
 [
     {
-        "key":"a1",
-        "channelName":"Traversy Media",
-        "owner":"Brad Travery",
-        "subscribers":"1.64M",
-        "salary":1500,
-        "img":"https://i.pinimg.com/236x/43/c2/51/43c251bdeb7ec94fc18896c7ae6d09d5.jpg",
-        "age":42},
-    {
         "key":"a3",
         "channelName":"Web Dev Simplified",
         "owner":"Kyle Cook",
@@ -33,6 +25,15 @@
         "salary":1000,
         "img":"https://yt3.ggpht.com/ytc/AKedOLRlgc2WX_PlndJ73B8Uv34TZjfzxqTFwLVJIF0l2w=s900-c-k-c0x00ffffff-no-rj",
         "age":35
+    },
+    {
+        "key":"a1",
+        "channelName":"Traversy Media",
+        "owner":"Brad Travery",
+        "subscribers":"1.64M",
+        "salary":1500,
+        "img":"https://i.pinimg.com/236x/43/c2/51/43c251bdeb7ec94fc18896c7ae6d09d5.jpg",
+        "age":42
     },
     {
         "key":"a6",
