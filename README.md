@@ -74,7 +74,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 This project was created with React [Hire Developers](https://goofy-noyce-88a881.netlify.app/).
 
-### `Best Developers`
+<!-- ### `Best Developers`
 
 Presenting  you the best of the best developers.
 
@@ -84,4 +84,8 @@ They have millions of students learning web development with them.
 
 ### `Hire Them`
 
-You can hire them at the most possible low budget.
+You can hire them at the most possible low budget. -->
+
+-list item 1
+-list item 2
+-list item 3
